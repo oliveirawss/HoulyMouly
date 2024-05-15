@@ -1,0 +1,17 @@
+{
+  "jogadores": [
+    { "id": 1, "titulo": "Neymar"},
+    { "id": 2, "titulo": "CR7"},
+    { "id": 3, "titulo": "Messi"},
+    { "id": 4, "titulo": "Wesley"}
+  ],
+  "times": [
+    { "id": 1, "nome": "Al hilal", "jogadores": 1 },
+    { "id": 2, "nome": "Al nassr", "jogadores": 2 },
+    { "id": 3, "nome": "Inter miame", "jogadores": 3 },
+    { "id": 4, "nome": "Corinthians", "jogadores": 4 }
+  ],
+  "Nome": {
+    "nome": "SabeMuito"
+  }
+}
