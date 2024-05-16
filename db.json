@@ -3,7 +3,7 @@
     { "id": 1, "titulo": "Neymar"},
     { "id": 2, "titulo": "CR7"},
     { "id": 3, "titulo": "Messi"},
-    { "id": 4, "titulo": "Wesley"}
+    { "id": 4, "titulo": "Wesley", "time": "Corinthians"}
   ],
   "times": [
     { "id": 1, "nome": "Al hilal", "jogadores": 1 },
